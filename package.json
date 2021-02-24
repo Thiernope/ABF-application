@@ -25,6 +25,7 @@
     "bcryptjs": "^2.4.3",
     "dotenv": "^8.2.0",
     "jsonwebtoken": "^8.5.1",
+    "nodemon": "^2.0.12",
     "pg": "^8.5.1",
     "sequelize": "^6.3.5",
     "validator": "^13.5.2"

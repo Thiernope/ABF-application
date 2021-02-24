@@ -40,7 +40,8 @@ export default class UserController {
         });
  
         } catch (error) {
-            return next(new Error(error))
+            //return next(new Error(error))
+            console.log(error)
         }
        
     }
